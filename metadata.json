@@ -1,0 +1,6 @@
+{
+  "name": "MegaMercado — Ecosistema de E-Commerce y Laboratorios TI",
+  "description": "Plataforma corporativa de MegaMercado: Laboratorios de Comercio Electrónico, Marketplaces Verticales SaaS y soluciones integrales de TI para nichos emergentes en Venezuela (Plan de Negocios 2026–2028).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
